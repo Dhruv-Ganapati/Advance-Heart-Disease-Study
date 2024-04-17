@@ -1,1 +1,1 @@
-# Advance-Hearth-Disease-Study
+# Advance-Heart-Disease-Study
